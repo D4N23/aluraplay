@@ -22,7 +22,7 @@ class Video
             throw new \InvalidArgumentException();
         }
 
-        $this->url = $url;
+        $this->url = $url
     }
 
     public function setId(int $id): void
