@@ -1,0 +1,16 @@
+{
+    "name": "danilo_sampaio/aluraplay",
+    "description": "app",
+    "type": "libary",
+    "autoload": {
+        "psr-4": {
+            "DaniloSampaio\\Aluraplay\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Danilo"
+        }
+    ],
+    "require": {}
+}
